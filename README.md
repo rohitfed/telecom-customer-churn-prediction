@@ -19,6 +19,7 @@ Customer account information – how long they’ve been a customer, contract, p
 Demographic info about customers – gender, age range, and if they have partners and dependents
 # Few glimpses of EDA:
 # 1. Churn distribution:
+![download (1)](https://github.com/rohitfed/telecom-customer-churn-prediction/assets/95124656/d1b97c06-6dec-4fb6-a9ab-da088084fd5a)
 
 Churn distribution 26.6 % of customers switched to another firm.
 
